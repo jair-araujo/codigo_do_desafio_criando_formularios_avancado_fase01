@@ -1,4 +1,4 @@
-# Desafio Criand Formulários Avançadoso do Programa Explorer da RocketSeat
+# Desafio Criando Formulários Avançadoso do Programa Explorer da RocketSeat
 
 Esse projeto foi desenvolvido para estudo, no programa Explorer da [RocketSeat](https://www.rocketseat.com.br/). 
 Objetivo dele é criar um formulário com campos de inputs costumizado e validação básica dos campos via HTML5 na prática, criando o documento baseado em um layout fornecido pela RockSeat.
